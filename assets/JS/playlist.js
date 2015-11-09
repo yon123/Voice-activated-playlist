@@ -3,7 +3,7 @@ var data = {
     {
       "fileName" : "http://picosong.com/6rv6/",
       "artist" : "Ty Segall",
-      "song"  : "Wave Goodbye"
+      "songName"  : "Wave Goodbye"
     }
   ]
 };

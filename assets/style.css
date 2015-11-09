@@ -1,4 +1,22 @@
-h1 {
-font-family: Helvetica;
-color: blue;
+#spinner {
+  display: none;
+  position: fixed;
+  z-index: 11%;
+  left: 50%;
+  top: 80%;
+}
+
+.glyphicon-headphones {
+  color: crimson;
+  font-size: 1.3em;
+  margin-left: 5px;
+}
+
+.big {
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+.context {
+  margin-bottom: 10px;
 }
