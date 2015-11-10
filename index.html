@@ -1,1 +1,45 @@
-My Page
+
+<html>
+  <head lang="en">
+    <meta charset="UTF-8">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.0.0/annyang.min.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+</head>
+<body>
+
+  <h1>VOICE COMMAND PLAYLIST</h1>
+
+  <div class="col-md-12 context">
+    <p class="big">Contextual</p>
+    <p>Last Command:<span class="l-command"></span> </p>
+    <p>Status:<span class="status"></span> </p>
+  </div>
+
+  <div class="col-md-5">
+    <p class="big text-center"><span class="glyphicon glyphicon-info-sign"></span>Available Commands:</p>
+      <ul class="list-group">
+        <li class="list-group-item list-group-item-success"><strong>Play</strong> - Plays the current song or starts the first song</li>
+        <li class="list-group-item list-group-item-success"><strong>Stop</strong> - Stops the song and nulls the playback time</li>
+        <li class="list-group-item list-group-item-success"><strong>Pause</strong> - Pauses the current song</li>
+        <li class="list-group-item list-group-item-success"><strong>Previous</strong> - Plays the previous track </li>
+        <li class="list-group-item list-group-item-success"><strong>Next</strong> - Plays the song after the current song</li>
+        <li class="list-group-item list-group-item-success"><strong>Play&lt;Slice from the songs or singer's name&gt;</strong>Plays a song with a particular name if found.</li>
+        </ul>
+  </div>
+
+  <div class="col-md-6">
+     <p class="lead text-center">We offer you some kickass songs:</p>
+    <p class="lead text-center"></p>
+    <ul class="list-group" id="playlist"></ul>
+  </div>
+
+  <div id="spinner">
+<img src="http://upload.wikimedia.org/wikipedia/commons/d/de/Ajax-loader.gif" alt="loading">
+  </div>
+
+    <script src="assets/JS/playlist.js"></script>
+    <script src="assets/JS/player.js"></script>
+    <script src="assets/JS/main.js"></script>
+</body>
+</html>
