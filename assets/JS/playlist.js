@@ -1,9 +1,9 @@
 var data = {
   "songs" : [
     {
-      "fileName" : "http://picosong.com/6rv6/",
-      "artist" : "Ty Segall",
-      "songName"  : "Wave Goodbye"
+      "fileName" : "http://www.filedropper.com/01timecollapseiithe7thterror",
+      "artist" : "Fuzz",
+      "songName"  : "7th Terror"
     }
   ]
 };
