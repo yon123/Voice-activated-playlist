@@ -1,4 +1,4 @@
-var audioPlayer = {
+ var audioPlayer = {
   audioData: {
     currentSong: -1,
     songs: []
