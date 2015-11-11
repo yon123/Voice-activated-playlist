@@ -121,6 +121,12 @@ var data = {
   "fileName" : "http://hanguyen82.free.fr/anh/Nhac/Pale%20Blue%20Eyes.mp3",
   "artist" : "The Velvet Underground",
   "songName" : "Pale Blue Eyes"
+},
+
+{
+  "fileName" : "http://trueendeavors.files.wordpress.com/2012/06/theeohsees_lupinedominus.mp3",
+  "artist" : "Thee Oh Sees",
+  "songName" : "Lupine Dominus"
 }
 
   ]
