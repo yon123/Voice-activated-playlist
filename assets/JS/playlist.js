@@ -37,6 +37,12 @@ var data = {
     },
 
     {
+      "fileName" : "http://8tracks.s3.amazonaws.com/tf/002/677/146/60871.mp3",
+      "artist" : "Phantogram",
+      "songName" : "When I'm Small"
+    },
+
+    {
       "fileName" : "http://a.tumblr.com/tumblr_m0o5h6YPB21qdzicwo1.mp3",
       "artist" : "Dr. Dre",
       "songName" : "Xplosive"
