@@ -31,6 +31,12 @@ var data = {
     },
 
     {
+      "fileName" : "http://onthepatio.typepad.com/13thFloorElevators_YoureGonnaMissMe_patio.mp3",
+      "artist" : "13th Floor Elevator",
+      "songName": "You're Gonna Miss Me"
+    },
+
+    {
       "fileName" : "http://a.tumblr.com/tumblr_m0o5h6YPB21qdzicwo1.mp3",
       "artist" : "Dr. Dre",
       "songName" : "Xplosive"
