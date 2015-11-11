@@ -1,7 +1,28 @@
-h1{
-  text-align: center;
-  font-size: 40px;
+html{
+  background-color: black;
 }
+
+h1{
+  /*color: black;*/
+  font-color: #FFFFFF;
+  font-size: 80px;
+  font-family: "Benchnine";
+  font-weight: bolder;
+  background-color: black ;
+  margin:0;
+}
+
+h3{
+  /*color: black;*/
+  background-color: black;
+  font-color: #FFFFFF;
+  font-size: 30px;
+  font-family: "Benchnine";
+  font-weight: bolder;
+  margin:0;
+}
+
+
 #spinner {
   display: none;
   position: fixed;
@@ -19,8 +40,17 @@ h1{
 .big {
   font-size: 1.5em;
   font-weight: bolder;
+  color: white;
 }
 
 .context {
   margin-bottom: 10px;
+}
+
+.lead{
+  color: white;
+}
+
+p{
+  color: white;
 }
