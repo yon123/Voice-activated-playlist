@@ -1,10 +1,12 @@
 html{
-  background-color: black;
+  background-color: white;
 }
 
 .header {
   border-bottom: 5px;
   border-bottom-color: #FFFFFF;
+  background-color: black;
+  background-image:
 }
 
 .header h1{
@@ -47,24 +49,28 @@ html{
   font-family: "Benchnine";
   font-size: 1.5em;
   /*font-weight: bolder;*/
-  color: white;
+  color: red;
   border-bottom: solid white 1px;
 }
 
 .context {
+  margin-top: 20px;
   margin-bottom: 10px;
+  /*font-color:black;*/
 }
 
 .lead{
-  color: white;
+  color: red;
   font-family: "Benchnine";
   border-bottom: solid white 1px;
+  font-weight: bolder;
   /*border-bottom-color: white;*/
   /*border-horizontal: 5px;*/
 }
 
 p{
-  color: white;
+  color: red;
+  font-weight: bolder;
   font-family: "Benchnine";
   font-size: 20px;
 }

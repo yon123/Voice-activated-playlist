@@ -21,12 +21,12 @@
         .eq(this.audioData.currentSong)
         .addClass("list-group-item-success")
         .removeClass("list-group-item-danger")
-        .append("<span class='glyphicon glyphicon-headphones'>");
+        .append("<span class='glyphicon glyphicon-equalizer'>");
     }
     if (options.end) {
       $("#playlist .list-group-item")
       .eq(this.audioData.currentSong)
-      .removeClass("list-group-item-success glyphicon-headphones")
+      .removeClass("list-group-item-success glyphicon-equalizer")
       .addClass("list-group-item-danger");
     }
   },
