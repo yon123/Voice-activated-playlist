@@ -7,6 +7,12 @@ var data = {
     },
 
     {
+      "fileName" : "http://freemp3.se/music/user_folder/Drake%20Know%20Yourself%20Drake%20Know%20Yourself%20Drake%20Know%20Yourself%20-%201435687519.mp3",
+      "artist" : "Drake",
+      "songName" : "Know Yourself"
+    },
+
+    {
       "fileName" : "http://a.tumblr.com/tumblr_m0o5h6YPB21qdzicwo1.mp3",
       "artist" : "Dr. Dre",
       "songName" : "Xplosive"
