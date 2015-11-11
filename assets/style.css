@@ -2,24 +2,30 @@ html{
   background-color: black;
 }
 
-h1{
-  /*color: black;*/
-  font-color: #FFFFFF;
+.header {
+  border-bottom: 5px;
+  border-bottom-color: #FFFFFF;
+}
+
+.header h1{
+  color: #FFFFFF;
   font-size: 80px;
   font-family: "Benchnine";
   font-weight: bolder;
-  background-color: black ;
+  background-color: black;
   margin:0;
 }
 
-h3{
-  /*color: black;*/
+.header h3
+{
   background-color: black;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
   font-size: 30px;
   font-family: "Benchnine";
   font-weight: bolder;
   margin:0;
+  /*margin-bottom: 10px;*/
+  padding-bottom: 40px;
 }
 
 
@@ -38,9 +44,11 @@ h3{
 }
 
 .big {
+  font-family: "Benchnine";
   font-size: 1.5em;
-  font-weight: bolder;
+  /*font-weight: bolder;*/
   color: white;
+  border-bottom: solid white 1px;
 }
 
 .context {
@@ -49,8 +57,23 @@ h3{
 
 .lead{
   color: white;
+  font-family: "Benchnine";
+  border-bottom: solid white 1px;
+  /*border-bottom-color: white;*/
+  /*border-horizontal: 5px;*/
 }
 
 p{
   color: white;
+  font-family: "Benchnine";
+  font-size: 20px;
 }
+
+.col-md-5 {
+  margin-right: 100px;
+}
+
+
+
+
+
