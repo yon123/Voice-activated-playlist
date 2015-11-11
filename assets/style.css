@@ -37,7 +37,7 @@ html{
   top: 80%;
 }
 
-.glyphicon-headphones {
+.glyphicon-equalizer {
   color: crimson;
   font-size: 1.3em;
   margin-left: 5px;
@@ -73,6 +73,9 @@ p{
   margin-right: 100px;
 }
 
+.div-to-scroll {
+  overflow: scroll;
+}
 
 
 
