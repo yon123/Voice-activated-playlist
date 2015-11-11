@@ -19,6 +19,18 @@ var data = {
     },
 
     {
+      "fileName" : "http://onlinekaraoke.tv/cache/files/15135-sittin-on-the-dock-of-the-bay-otis-redding--1411568509.mp3",
+      "artist" : "Otis Redding",
+      "songName" : "Sittin On The Dock Of The Bay"
+    },
+
+    {
+      "fileName" : "http://fuelfriendsblog.com/listenup/Pain%20in%20my%20heart/02%20Pain%20In%20My%20Heart.mp3",
+      "artist" : "Otis Redding",
+      "songName" : "Pain In My Heart"
+    },
+
+    {
       "fileName" : "http://a.tumblr.com/tumblr_m0o5h6YPB21qdzicwo1.mp3",
       "artist" : "Dr. Dre",
       "songName" : "Xplosive"
