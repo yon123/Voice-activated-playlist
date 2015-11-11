@@ -25,6 +25,12 @@ var data = {
     },
 
     {
+      "fileName" : "http://www.mixtaperiot.com/wp/wp-content/media/LoudPlaces.mp3",
+      "artist" : "Jamie xx",
+      "songName" : "Loud Places(featuring Romy)"
+    },
+
+    {
       "fileName" : "http://themusicslut.com/wp-content/uploads/2008/11/tame_impala_remember_m.mp3",
       "artist" : "Tame Impala",
       "songName" : "Remember Me"
