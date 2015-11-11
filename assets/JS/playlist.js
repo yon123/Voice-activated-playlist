@@ -7,9 +7,9 @@ var data = {
     },
 
     {
-      "fileName" : "http://freemp3.se/music/user_folder/Drake%20Know%20Yourself%20Drake%20Know%20Yourself%20Drake%20Know%20Yourself%20-%201435687519.mp3",
-      "artist" : "Drake",
-      "songName" : "Know Yourself"
+      "fileName" : "http://rawkblog.net/mp3/bootlegs/The%20Smiths%20The%20Complete%20Peel%20Sessions%20(not%20AMGed)/08.%20The%20Smiths%20-%20this%20night%20has%20opened%20my%20eyes%20(sep%2021%201983).mp3",
+      "artist" : "The Smiths",
+      "songName" : "This Night Has Opened My Eyes"
     },
 
     {
