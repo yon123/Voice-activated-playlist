@@ -79,8 +79,22 @@ p{
   margin-right: 100px;
 }
 
+
 .div-to-scroll {
   overflow: scroll;
+}
+
+.col-md-6 {
+  float: right;
+  bottom: 360px;
+  /*margin-bottom: 300px;*/
+  /*margin-bottom: 30px;*/
+  /*display: inline-block;*/
+  /*position: relative;*/
+  /*top: 0px; */
+  /*bottom: 10px;*/
+  /*padding-bottom: 200px;*/
+  /*margin-right: 20px;*/
 }
 
 
